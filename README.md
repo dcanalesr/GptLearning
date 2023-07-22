@@ -1,3 +1,3 @@
 # GptLearning
 
-Purpose of this repo its check new things on chat gpt, langchain and others
+Purpose of this repo is to check new things on chat gpt, langchain and others
